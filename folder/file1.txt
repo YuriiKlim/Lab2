@@ -1,1 +1,2 @@
-Change that will cause a conflict
+Change that will cause a conflict 1
+
